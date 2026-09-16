@@ -1,0 +1,9 @@
+{
+  "name": "mastra-token-limiter-repro",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mastra/core": "^1.67.0",
+    "zod": "^4.6.5"
+  }
+}
